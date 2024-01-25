@@ -12,3 +12,7 @@ step-2 : python MegaAcccreator.py
 
 step-3 : just wait for 30 secont your one mega account will ready
 
+####################################################
+
+in future you will get any error contect me on telegram on instalgram
+@anshu_paswan_47
