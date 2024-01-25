@@ -14,5 +14,5 @@ step-3 : just wait for 30 secont your one mega account will ready
 
 ####################################################
 
-in future you will get any error contect me on telegram on instalgram
+in future you will get any error contect me on instagram
 @anshu_paswan_47
